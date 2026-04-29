@@ -91,8 +91,6 @@ GRANT IMPORTED PRIVILEGES ON DATABASE SNOWFLAKE TO APPLICATION <app_name>;
 |----------|-------------|
 | [Architecture](docs/ARCHITECTURE.md) | System design, data flow, tech stack, security measures |
 | [User Guide](docs/USER_GUIDE.md) | How to use each tab, filter, KPI, and chart |
-| [Permissions](docs/PERMISSIONS.md) | Required privileges, what they unlock, granular alternatives |
-| [Version History](docs/VERSION_HISTORY.md) | Changelog |
 
 ## Data Latency
 
