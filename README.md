@@ -90,7 +90,6 @@ GRANT IMPORTED PRIVILEGES ON DATABASE SNOWFLAKE TO APPLICATION <app_name>;
 | Document | Description |
 |----------|-------------|
 | [Architecture](docs/ARCHITECTURE.md) | System design, data flow, tech stack, security measures |
-| [Deployment Guide](docs/DEPLOYMENT_GUIDE.md) | Step-by-step deployment and publishing instructions |
 | [User Guide](docs/USER_GUIDE.md) | How to use each tab, filter, KPI, and chart |
 | [Permissions](docs/PERMISSIONS.md) | Required privileges, what they unlock, granular alternatives |
 | [Version History](docs/VERSION_HISTORY.md) | Changelog |
